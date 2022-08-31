@@ -1,0 +1,3 @@
+[submodule "subprojects/LibJR"]
+	path = subprojects/LibJR
+	url = https://github.com/juniorrantila/LibJR
